@@ -1,17 +1,15 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Seungchang Han · Ph.D. student · Physical Chemistry · Korea University" width="100%">
+</picture>
+
 <div align="center">
 
-# Seungchang Han <sub>한승창</sub>
+[![Homepage](https://img.shields.io/badge/Homepage-seungchanghan.github.io-1b2735?style=for-the-badge)](https://seungchanghan.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-seungchanghan-1b2735?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seungchanghan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seungchang%20Han-1b2735?style=for-the-badge)](https://www.linkedin.com/in/seungchang-han-8761b9414)
+[![Ringe Lab](https://img.shields.io/badge/Ringe%20Lab-Korea%20University-E8A010?style=for-the-badge)](https://www.ringelab.com/)
 
-Ph.D. student in physical chemistry · [Ringe Lab](https://www.ringelab.com/) · Korea University
-
-<br>
-
-[![Homepage](https://img.shields.io/badge/Homepage-seungchanghan.github.io-2a78d6?style=flat-square)](https://seungchanghan.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-seungchanghan-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/seungchanghan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seungchang%20Han-0a66c2?style=flat-square)](https://www.linkedin.com/in/seungchang-han-8761b9414)
-
-<br>
-
-<sub>Personal research repositories. Not an official account of the Ringe Lab.</sub>
+<sub>Personal research repositories · not an official account of the Ringe Lab</sub>
 
 </div>
